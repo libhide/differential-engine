@@ -1,7 +1,7 @@
 Differential Engine
 ===================
 
-A command line based tool which can be used for basic differentiation written on Borland's Turbo C++ compiler.  built this with a friend (Skanda Shekhar) back in 11th grade (so, don't judge!).
+A command line based tool which can be used for basic differentiation written on Borland's Turbo C++ compiler. I built this with a friend (Skanda Shekhar) back in 11th grade (so, don't judge!).
 
 What all does the tool do?
 --------------------------
